@@ -558,7 +558,7 @@ seaborn==0.13.0             # Statistical plots
 </div>
 
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/aryan-r03/fake-news-detector.git
 cd fake-news-detector
 ```
 
@@ -2139,7 +2139,7 @@ Text is invalid
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/your-username/fake-news-detector.git
+   git clone https://github.com/aryan-r03/fake-news-detector.git
    cd fake-news-detector
    ```
 3. **Create** a feature branch:
@@ -2281,15 +2281,12 @@ Special thanks to:
 
 **If this project helped you, please consider:**
 
-<a href="https://github.com/your-username/fake-news-detector">
-  <img src="https://img.shields.io/github/stars/your-username/fake-news-detector?style=social" alt="GitHub stars"/>
-</a>
-<a href="https://github.com/your-username/fake-news-detector/fork">
-  <img src="https://img.shields.io/github/forks/your-username/fake-news-detector?style=social" alt="GitHub forks"/>
-</a>
-<a href="https://github.com/your-username/fake-news-detector/watchers">
-  <img src="https://img.shields.io/github/watchers/your-username/fake-news-detector?style=social" alt="GitHub watchers"/>
-</a>
+
+
+[![GitHub stars](https://img.shields.io/github/stars/aryan-r03/fake-news-detector?style=social)](https://github.com/aryan-r03/fake-news-detector/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/aryan-r03/fake-news-detector?style=social)](https://github.com/aryan-r03/fake-news-detector/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/aryan-r03/fake-news-detector)](https://github.com/aryan-r03/fake-news-detector/issues)
+
 
 <br><br>
 
